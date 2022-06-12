@@ -1,0 +1,9 @@
+c:\users\home\documents\visual studio 2012\Projects\anakebnet\anakebnet\bin\Release\anakebnet.exe.config
+c:\users\home\documents\visual studio 2012\Projects\anakebnet\anakebnet\obj\Release\anakebnet.Form1.resources
+c:\users\home\documents\visual studio 2012\Projects\anakebnet\anakebnet\obj\Release\anakebnet.Properties.Resources.resources
+c:\users\home\documents\visual studio 2012\Projects\anakebnet\anakebnet\obj\Release\anakebnet.csproj.GenerateResource.Cache
+c:\users\home\documents\visual studio 2012\Projects\anakebnet\anakebnet\bin\Release\anakebnet.exe
+c:\users\home\documents\visual studio 2012\Projects\anakebnet\anakebnet\bin\Release\anakebnet.pdb
+c:\users\home\documents\visual studio 2012\Projects\anakebnet\anakebnet\obj\Release\anakebnet.exe
+c:\users\home\documents\visual studio 2012\Projects\anakebnet\anakebnet\obj\Release\anakebnet.pdb
+C:\Users\HOME\Documents\visual studio 2012\Projects\anakebnet\anakebnet\obj\Release\anakebnet.csprojResolveAssemblyReference.cache
